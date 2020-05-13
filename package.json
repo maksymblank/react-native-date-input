@@ -1,0 +1,28 @@
+{
+  "name": "react-native-dateinput",
+  "version": "1.0.0",
+  "description": "React Native TextInput for dates",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react-native-dateinput"
+  },
+  "keywords": [
+    "react-native",
+    "date",
+    "input",
+    "textinput"
+  ],
+  "author": "Maksym Blank",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-native": "^0.62.2"
+  }
+}
