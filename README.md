@@ -1,10 +1,10 @@
-# react-native-dateinput
+# react-native-date-input
 React Native TextInput for dates and birthdays
 
-<a href="https://www.npmjs.org/package/react-native-dateinput">
-  <img src="https://badge.fury.io/js/react-native-dateinput.svg" alt="NPM package version." />
+<a href="https://www.npmjs.org/package/@maksymblank/react-native-date-input">
+  <img src="https://badge.fury.io/js/%40maksymblank%2Freact-native-date-input.svg" alt="NPM package version." />
 </a>
-<a href="https://github.com/react-native-community/react-native-dateinput">
+<a href="https://github.com/MaksymBlank/react-native-date-input">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT license." />
 </a>
 
@@ -17,17 +17,17 @@ React Native TextInput for dates and birthdays
 ## Setup
 
 ```bash
-npm install --save react-native-dateinput
+npm i --save @maksymblank/react-native-date-input
 
 # --- or ---
 
-yarn add react-native-dateinput
+yarn add @maksymblank/react-native-date-input
 ```
 
 ## Usage
 
 ```javascript
-import DateInput from 'react-native-dateinput';
+import DateInput from '@maksymblank/react-native-date-input';
 ...
 <DateInput
     mask={'DD/MM/YYYY'}

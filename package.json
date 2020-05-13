@@ -1,5 +1,5 @@
 {
-  "name": "react-native-dateinput",
+  "name": "@maksymblank/react-native-date-input",
   "version": "1.0.0",
   "description": "React Native TextInput for dates",
   "main": "index.js",
@@ -9,9 +9,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/MaksymBlank/react-native-date-input",
   "repository": {
     "type": "git",
-    "url": "react-native-dateinput"
+    "url": "https://github.com/MaksymBlank/react-native-date-input"
   },
   "keywords": [
     "react-native",
